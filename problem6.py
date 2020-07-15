@@ -16,3 +16,4 @@ number = 100
 answer = multiplier(number) - addition(number)
 
 print(answer)
+
