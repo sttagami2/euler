@@ -1,4 +1,5 @@
 triangle_number = [1]
+divisors = []
 
 while sum(divisors) < 500:
   divisors = []
